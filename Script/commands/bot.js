@@ -3,7 +3,7 @@ module.exports.config = {
   name: "Obot",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "IP-ARIYAN ",
+  credits: "Ip ariyan",
   description: "goibot",
   commandCategory: "Noprefix",
   usages: "noprefix",
